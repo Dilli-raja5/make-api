@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    background-image: url("https://c.pxhere.com/photos/00/64/beauty_makeup_make_up_fashion_cosmetics_wood-729421.jpg!d" );    
+    
+}
+
+.catch{
+    text-align: center;
+    margin:50px;
+    color:greenyellow;
+    font-weight: bold;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.header{
+    text-align: center;
+    font-size:50px;
+    font-weight: bold;
+    color:gold;
+}
+#content{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;  
+    justify-content: center;
+    gap:2em;   
+    margin:0px;     
+}
+.container{
+   color:goldenrod;
+   font-family: cursive;  
+   background-color:wheat;   
+   border:2px solid yellow;
+   margin:20px ;
+   padding:40px;
+   border-radius: 5px;  
+   width:300px;
+   height:400px;      
+   overflow:scroll;     
+}
+#title{
+    margin:10px;
+}
+.brands{  
+    color:blanchedalmond;
+    padding:10px; 
+    margin:0px;  
+   
+}
+#btn{
+    height:60px;
+    width:80px;
+    text-align: center;
+    margin:10px 700px;
+}
+.header1{
+    margin:10px 700px;
+    padding:20px 20px;
+    text-align: center;
+    background:goldenrod;
+    padding:20px 20px;    
+    font-style:italic;   
+}
+
